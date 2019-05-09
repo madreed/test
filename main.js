@@ -4,6 +4,8 @@
 "use strict";
 
 //Define globals here
+var badtime = false;
+var badmeme = true;
 
 //Define Game
 var game = new Phaser.Game(1000, 1000, Phaser.AUTO);
